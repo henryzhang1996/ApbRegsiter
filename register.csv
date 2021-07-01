@@ -1,0 +1,3 @@
+10,DmaCtrl,7,dmaTrig,1,WR,0,W/C/14/1,dmaClr,1,WS,0,R/S/18/1/3333,reserved,2,RO,0,none,dmaBusy,1,WC,1,none,reserved,3,RO,5,none,dmaDatTrans,19,RO,11,none,reserved,5,WR,6,none
+14,DmaCfgA,2,dmaPeriSel,16,WC,0,none,reserved,16,RO,0,none,,,,,,,,,,,,,,,,,,,,,,,,,
+18,DmaCfgB,1,dmaMemStratAddr,32,WR,1234,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
